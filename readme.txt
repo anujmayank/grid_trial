@@ -1,1 +1,1 @@
-open grid_test.html for the test application
+open sample/grid_test.html for the test application
